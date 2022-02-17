@@ -1,3 +1,5 @@
 adding new file 
 secret:'sjdfhdsf'
-Capgemini.GHPO
+Capgemini.GHPO.SelfServicePortal
+
+Domain.Models.Enums
